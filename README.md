@@ -8,7 +8,7 @@ We are thrilled to announce that our paper:
 
 ### **“A Secure and Private Ensemble Matcher Using Multi-Vault Obfuscated Templates”**
 
-will be presented at the upcoming **special session on Generative AI for Futuristic Biometrics** at **IJCB 2024** in Buffalo, NY, USA! 🚀
+was presented at the **special session on Generative AI for Futuristic Biometrics** at **IJCB 2024** in Buffalo, NY, USA! 🚀
 
 ✨🌟✨🌟✨🌟✨🌟✨
 
