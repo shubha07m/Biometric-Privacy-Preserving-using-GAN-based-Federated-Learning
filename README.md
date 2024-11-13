@@ -2,6 +2,18 @@
 
 ---
 
+## ✨🎉 **Update!** 🎉✨
+
+We are excited to announce that our paper:
+
+### **“A Secure and Private Ensemble Matcher Using Multi-Vault Obfuscated Templates”**
+
+Is now available at IEEE Xplore! 🚀
+
+![Paper at IEEE Xplore](https://ieeexplore.ieee.org/document/10744494)
+
+
+
 ## ✨🎉 **Exciting News!** 🎉✨
 
 We are thrilled to announce that our paper:
@@ -53,10 +65,5 @@ One of the key achievements of this method is its ability to maintain **high acc
 
 If you like our work, please consider citing it as follows:
 
-```bibtex
-@article{gilkalaye2024secure,
-  title={A secure and private ensemble matcher using multi-vault obfuscated templates},
-  author={Gilkalaye, Babak Poorebrahim and Mukherjee, Shubhabrata and Derakhshani, Reza},
-  journal={arXiv preprint arXiv:2404.05205},
-  year={2024}
-}
+B. P. Gilkalaye, S. Mukherjee and R. Derakhshani, "A secure and private ensemble matcher using multi-vault obfuscated templates," 2024 IEEE International Joint Conference on Biometrics (IJCB), Buffalo, NY, USA, 2024, pp. 1-10, doi: 10.1109/IJCB62174.2024.10744494.
+
