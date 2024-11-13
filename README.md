@@ -10,9 +10,7 @@ We are excited to announce that our paper:
 
 Is now available at IEEE Xplore! 🚀
 
-![Paper at IEEE Xplore](https://ieeexplore.ieee.org/document/10744494)
-
-
+[Paper at IEEE Xplore](https://ieeexplore.ieee.org/document/10744494)
 
 ## ✨🎉 **Exciting News!** 🎉✨
 
